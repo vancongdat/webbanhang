@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRANG CHỦ</title>
+    <link rel="stylesheet" href="css/style.css">
+    
+</head>
+<body>
+    
+	<div class="container">
+		<div class="menu">
+			<div class="up">
+				<ul>
+					<li class="logo">
+						<a href="">
+							<img src="images/logo.PNG">
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon1.PNG">
+							Trang chủ
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon2.PNG">
+							Tôi bán
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon3.PNG">
+							Hỗ trợ
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon4.PNG">
+							Thông báo
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon5.PNG">
+							Thêm
+						</a>
+					</li>
+
+				</ul>
+    
+			</div>
+			<div class="down">
+				<div class="search">
+					<input type="" name="" placeholder="Tìm kiếm món ngon trên chợ TỐT">
+					<button>
+						<img src="images/search.png">
+					</button>
+
+				</div>
+
+			</div>
+			<div class="section">
+				<div class="namexe">
+				 <div class="name">
+					 <p>RAU SẠCH</p>
+					
+				 </div>
+				 <hr>
+				</div>
+				 
+				 <div class="khung">
+					 <div class="sanpham">
+						 <img src="images/cantay.jpg" alt="">
+						 <p> Rau sạch-Cần Tây Đà Lạt</p>
+						 <h5>Giá 8.000 VNĐ/0.5kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/raumuong.jpg" alt="">
+						 <p> Rau sạch-Rau Muống</p>
+						 <h5>Giá 10.000 VNĐ/0.5kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/raunhut.jpg" alt="">
+						 <p>Rau Sạch-Rau Nhút</p>
+						 <h5>GIá 30.000 VNĐ/0.5kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/salad.jpg" alt="">
+						 <p>Rau Sạch-SALAD</p>
+						 <h5>GIá 40.000 VNĐ/0.5kg</h5>
+					 </div>
+				 </div>
+			 </div>
+
+			<div class="section">
+				<div class="namexe">
+				 <div class="name">
+					 <p>CỦ-HẠT</p>
+					
+				 </div>
+				 <hr>
+				</div>
+				 
+				 <div class="khung">
+					 <div class="sanpham">
+						 <img src="images/khoai.png" alt="">
+						 <p> CỦ-Khoai sâm đất</p>
+						 <h5>Giá 13.000 VNĐ/0.5kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/cudau.jpg" alt="">
+						 <p> Củ-cũ đậu </p>
+						 <h5>Giá 10.000 VNĐ/0.5kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/daungu.png" alt="">
+						 <p>Hạt-Đậu ngự</p>
+						 <h5>GIá 50.000 VNĐ/0.5kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/hatdieu.jpg" alt="">
+						 <p>Hạt-Điều</p>
+						 <h5>GIá 100.000 VNĐ/0.5kg</h5>
+					 </div>
+				 </div>
+			 </div>
+			 <div class="section">
+				<div class="namexe">
+				 <div class="name">
+					 <p>TRÁI CÂY</p>
+					
+				 </div>
+				 <hr>
+				</div>
+				 
+				 <div class="khung">
+					 <div class="sanpham">
+						 <img src="images/chuoi.jpg" alt="">
+						 <p> Trái Cây-Chuối lùn</p>
+						 <h5>GIá 20.000 VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/xoai.jpg" alt="">
+						 <p> Trái cây-Xoài thái</p>
+						 <h5>Giá 28.000 VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/dua.jpg" alt="">
+						 <p> Trái cây-Dưu hấu không hạt</p>
+						 <h5>Giá 40.000 VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/mangcut.jpg" alt="">
+						 <p> Trái Cây-Măng cụt</p>
+						 <h5>Giá 150.000 VNĐ 1kg</h5>
+					 </div>
+				 </div>
+			 </div>
+		 
+			 <div class="section">
+				 <div class="namexe">
+					 <div class="name">
+						 <p>Hải Sản</p>
+						
+					 </div>
+					 <hr>
+					</div>
+					 <div class="khung">
+					 <div class="sanpham">
+						 <img src="images/cahoi.jpg" alt="">
+						 <p> Hải Sản-Cá Hồi</p>
+						 <h5>Giá 520.000 VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/tom.jpg" alt="">
+						 <p> Hải Sản-Tôm càng xanh</p>
+						 <h5>GIá 299.999 VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/bachtuoc.jpg" alt="">
+						 <p> Hải Sản-Bạch tuộc sống </p>
+						 <h5>Giá 180.000 VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/ge.jpg" alt="">
+						 <p> Hải Sản-Gẹ Nha Trang </p>
+						 <h5>Giá 130.000 VNĐ/1kg</h5>
+					 </div>
+				 </div>
+			 </div>
+		 
+			 <div class="section">
+				 <div class="namexe">
+					 <div class="name">
+						 <p>THỊT TƯƠI</p>
+						
+					 </div>
+					 <hr>
+					</div>
+				 
+				 <div class="khung">
+					 <div class="sanpham">
+						 <img src="images/thitnai.jpg" alt="">
+						 <p> Thịt tươi-Thịt nai</p>
+						 <h5>Giá 300.000VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/thitbo.jpg" alt="">
+						 <p>Thịt tươi-Thịt bò úc</p>
+						 <h5>Giá 200.000 VNĐ/1kg</h5>
+					 </div>
+					 <div class="sanpham">
+						<img src="images/ga.jpg" alt="">
+						<p> Thịt tươi-Gà tre</p>
+						<h5>Giá 130.000 VNĐ/1kg </h5>
+					</div>
+					 <div class="sanpham">
+						 <img src="images/thitheo.jpg" alt="">
+						 <p> Thịt tươi-Thịt ba rọi</p>
+						 <h5>Giá 120.000 VNĐ/1kg</h5>
+					 </div>
+					
+				 </div>
+				 <div class="section">
+					<div class="namexe">
+						<div class="name">
+							<p>SẤY KHÔ</p>
+						   
+						</div>
+						<hr>
+					   </div>
+					
+					<div class="khung">
+						<div class="sanpham">
+							<img src="images/khoga.png" alt="">
+							<p>Sấy khô-Khô gà lá chanh</p>
+							<h5>Giá 299.000VNĐ/300gram</h5>
+						</div>
+						<div class="sanpham">
+							<img src="images/khobo.jpg" alt="">
+							<p>Sấy khô-Khô bò sợi </p>
+							<h5>Giá 400.000 VNĐ/1kg</h5>
+						</div>
+						<div class="sanpham">
+						   <img src="images/khomuc.jpg" alt="">
+						   <p> Sấy khô-Mực khô</p>
+						   <h5>Giá 690.000 VNĐ/1kg </h5>
+					   </div>
+						<div class="sanpham">
+							<img src="images/gatbep.jpg" alt="">
+							<p> Sấy khô-Trâu gát bếp"Tây Bắc"</p>
+							<h5>Giá 899.000 VNĐ/1kg</h5>
+						</div>
+					   
+					</div>
+			 </div>
+			 <footer>
+       
+				<div class="thongtin">
+					<div class="col1">
+						<h5>CÔNG TY Thực Phẩm Sạch VIỆT NAM</h5>
+						<p>Diển đàn của tôi:9999+ bài viết đăng tải sau 24h <a href="https://thucphamsach.vn">thucphamsach@com.vn</a></p>
+						<p>Đăng ký: 10/04/2002 </p>
+						<p>Địa chỉ: 73/10 Đường huỳnh văn lũy ,TP TDM, Bình Dương</p>
+					
+				</div>
+					
+				<div class="col2">
+					<h5>ĐƯỜNG DÂY NÓNG</h5>
+					<p>Hotline:1999.9999 (Miễn phí cho tất cả thuê bao)</p>
+					<p>Email: <a href="chotot@sach.com.vn">chotot@sach.com.vn</a></p>
+				</div>
+				</div>
+			  </footer>
+			  <div id="subfooter">
+					<p>ChoTot VietNam &copy; 2021</p>
+					<a href="https://appstore.vn"> <img src="images/app.svg" alt=""></a>
+			  </div>
+</body>
+</html>
+</body>
+</html>u8

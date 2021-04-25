@@ -1,0 +1,159 @@
+.container{
+	width: 100%;
+	height: auto;
+}
+.menu{
+	width: 100%;
+	height: 120px;
+	background-color:greenyellow;
+}
+.up{
+	width: 80%;
+	height: 70px;
+	margin: 0px auto;
+}
+.up ul{
+	list-style: none;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.up ul li{
+	display: inline-block;
+	padding:10px;
+}
+.up ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+.up ul li a img{
+	vertical-align: middle;
+}
+.logo a img{
+	padding-right: 40px;
+}
+.down{
+	height: 50px;
+	width: 80%;
+	margin: 0 auto;
+}
+.search{
+	height: 40px;
+	width: 550px;
+	background-color: white;
+	margin-left: 60px;
+	border-radius: 5px;
+}
+.search input{
+	width: 480px;
+	height: 35px;
+	border: 0px;
+	padding-left: 20px;
+	font-size: 15px;
+	border-radius: 5px;
+
+}
+.search button{
+
+	border: 0px;
+}
+.search button img{
+	width: 20px;
+	height: auto;
+	vertical-align: middle;
+}
+.content{
+	width: 1000px;
+	margin: 20px auto;
+	display: grid;
+	grid-template-columns: 150px 150px 150px 150px  150px 150px;
+	grid-template-rows: 150px 150px 150px ;
+	grid-gap: 10px;	
+}
+.item img{
+	width: 150px;
+	height: 150px;
+	border-radius: 10px;
+}
+
+.namexe {
+padding: 10px;
+margin: 0 auto;
+width: 80% ;
+}
+.section .name {
+text-align: center;
+line-height: 45px;
+height: 40px;
+color:yellowgreen;
+background: purple;
+width: 100px;
+font-weight: bold;
+border-top-right-radius: 30px;
+
+}
+hr {
+width: 100%;
+background: turquoise;
+color: turquoise;
+height: 2px;
+}
+.section .khung {
+width: 80%;
+margin: 0 auto;
+display: flex;
+flex-wrap: wrap;
+background-color: blanchedalmond;
+}
+.section .sanpham {
+margin: 0 auto;
+border-style: solid;
+border-width: 1px;
+border-radius: 5px;
+width: 24%;
+box-shadow: 2px 3px 2px black;
+
+}
+
+.section .sanpham p {
+color: red;
+font-weight: bold;
+text-align: center;
+background-color: darkblue;
+}
+.section .sanpham img {
+width: 209px;
+height: 121px;
+padding: 20px;
+}
+.sanpham img:hover {
+
+transform: scale(1.2); 
+}
+h5 {
+text-align:  center;
+color: indigo;
+background-color: khaki;
+}
+
+
+#subfooter {
+       height: 60px;
+       width: 100%;
+   
+}
+
+#subfooter p {
+       text-align: center;
+       line-height: 62px;
+	   background-color: blue;
+}
+.col1{
+	background-color: brown;
+}
+.col2{
+	background-color: green;
+}
+
+

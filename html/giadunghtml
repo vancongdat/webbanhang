@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRANG CHỦ</title>
+    <link rel="stylesheet" href="css/style1.css">
+    
+</head>
+<body>
+    
+	<div class="container">
+		<div class="menu">
+			<div class="up">
+				<ul>
+					<li class="logo">
+						<a href="">
+							<img src="images/logo.PNG">
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon1.PNG">
+							Trang chủ
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon2.PNG">
+							Tôi bán
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon3.PNG">
+							Hỗ trợ
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon4.PNG">
+							Thông báo
+						</a>
+					</li>
+					<li>
+						<a href="">
+							<img src="images/icon5.PNG">
+							Thêm
+						</a>
+					</li>
+
+				</ul>
+    
+			</div>
+			<div class="down">
+				<div class="search">
+					<input type="" name="" placeholder="Tìm kiếm món ngon trên chợ TỐT">
+					<button>
+						<img src="images/search.png">
+					</button>
+
+				</div>
+
+			</div>
+			<div class="section">
+				<div class="namexe">
+				 <div class="name">
+					 <p>Bếp</p>
+					
+				 </div>
+				 <hr>
+				</div>
+				 
+				 <div class="khung">
+					 <div class="sanpham">
+						 <img src="images/noicom.jpg" alt="">
+						 <p> Nồi Cơm Điện</p>
+						 <h5>Giá 1,300,000 ₫ </h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/lonuong.jpg" alt="">
+						 <p> Lò Nướng SANAKY-259s2d</p>
+						 <h5>Giá 1,149,000 ₫</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/bepga.jpg" alt="">
+						 <p>Bếp Gas Đôi Fujishi FM-H07</p>
+						 <h5>GIá 312,500 ₫</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/sieutoc.jpg" alt="">
+						 <p>Ấm siêu tốc RAPIDO RK1818</p>
+						 <h5>GIá 250,000 ₫</h5>
+					 </div>
+				 </div>
+			 </div>
+
+			<div class="section">
+				<div class="namexe">
+				 <div class="name">
+					 <p>Trang Trí</p>
+					
+				 </div>
+				 <hr>
+				</div>
+				 
+				 <div class="khung">
+					 <div class="sanpham">
+						 <img src="images/tu.jpg" alt="">
+						 <p> Tủ Quần Áo</p>
+						 <h5>Giá 5,385,600 ₫</h5>
+					 </div>
+					 <div class="sanpham">
+						 <img src="images/bange.jpg" alt="">
+						 <p> Bộ SoFa  </p>
+						 <h5>Giá 4,990,000 ₫</h5>
+					 </div>
+                     <div class="sanpham">
+                        <img src="images/bandiem.jpg" alt="">
+                        <p>Bàn Trang Điểm </p>
+                        <h5>GIá 2,500,000 ₫ </h5>
+					 </div>
+                         <div class="sanpham">
+                            <img src="images/giuong.jpg" alt="">
+                            <p>Giường Đa Năng Thông Minh</p>
+                            <h5>GIá 22,000,000 ₫ </h5>
+                        </div>
+				 </div>
+			 </div>
+			<footer>
+				<div class="col2">
+					<h5>ĐƯỜNG DÂY NÓNG</h5>
+					<p>Hotline:1999.9999 (Miễn phí cho tất cả thuê bao)</p>
+					<p>Email: <a href="dodunggiadung@com.vn">dodunggiadung@com.vn</a></p>
+					<h5>Thông Báo:hiện shop chỉ cung cấp một vài sản phẩm gia dụng sẽ được shop cung cấp thêm quý khách thường xuyên cập nhật để được nhận mã giảm giá</h5>
+				</div>
+			</footer> 
+			 
+</body>
+</html>
+</body>
+</html>
